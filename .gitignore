@@ -171,3 +171,6 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+
+#vscode settings, occur sometime with environment or extensions
+.vscode/
